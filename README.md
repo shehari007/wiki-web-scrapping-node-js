@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-**SCRIPT:** Hooks, Node JS, Pupeeteer
+- Node JS, Pupeeteer
 
 ## Pre Requirements For Local Development
 
@@ -46,7 +46,7 @@ Start Script
 ```bash
 node index.js
 ```
-Script will start & open a windows to load page automatically and closes all scrapped data will output in console log in terminal, Happy Hacking!
+Script will start & open a windows to load page automatically and closes all scrapped data will output in console log in terminal, Happy scraping!
 
 ## License
 
